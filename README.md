@@ -12,6 +12,12 @@ Hi, I'm Maryam.
 </div>
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=maryamkheiri&style=flat-square&color=blue" alt=""/>
-
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47x1xuh0d4fte0w4je0ri02lmxs0ggdb3hms57sve2&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 </div>
